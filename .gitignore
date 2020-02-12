@@ -1,3 +1,7 @@
+.DS_Store
+dags/config/data_source.py
+dags/config/etl.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
